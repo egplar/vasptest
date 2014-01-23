@@ -1,0 +1,2 @@
+This is the temporary folder where the VASP jobs are run. This file needs to be here, because git does not handle empty directories.
+
