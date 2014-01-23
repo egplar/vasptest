@@ -1,0 +1,5 @@
+Automatic mesh
+0              ! number of k-points = 0 ->automatic generation scheme 
+M           ! fully automatic
+4 4 4
+0 0 0

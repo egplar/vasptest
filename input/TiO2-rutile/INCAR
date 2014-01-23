@@ -1,0 +1,16 @@
+System = rutile
+ISTART = 0
+ICHARG = 2
+PREC   = Normal        
+ENCUT = 400
+ISPIN  = 1
+
+EDIFF = 1.0E-6
+NPAR = 2
+ISMEAR = 0
+SIGMA = 0.05         
+ALGO = fast
+
+LWAVE=.FALSE.
+LCHARG=.FALSE.
+
